@@ -1,3 +1,6 @@
 [
-  
+  { "type": "artifact_tool", "id": "artifact_0", "name": "Spiked Cube of Cursed Ichor", "description": "This is the Spiked Cube of Cursed Ichor.\nIt is the only one of its kind.\nIt may have unknown powers; try activating them.", "sym": "*", "color": 139264, "price": 0, "materials": [ "steel" ], "volume": 2, "weight": 2220, "melee_dam": 10, "melee_cut": 0, "m_to_hit": -1, "item_flags": [  ], "techniques": [  ], "ammo": [  ], "max_charges": 7, "def_charges": 7, "charges_per_use": 1, "turns_per_charge": 0, "charge_type": 6, "charge_req": 0, "effects_wielded": [ 29, 18, 25 ], "effects_activated": [ 26, 5, 23 ], "effects_carried": [  ], "dream_unmet": [ "The %s is somehow vaguely dissatisfied even though it doesn't want anything. Seeing this is a bug!" ], "dream_met": [ "The %s is satisfied, as it should be because it has no standards. Seeing this is a bug!" ], "dream_freq_unmet": 130, "dream_freq_met": 0
+  },
+  { "type": "artifact_armor", "id": "artifact_1", "name": "Robe of Cyclopean Technique", "description": "This is the Robe of Cyclopean Technique.\nIt is the only one of its kind.\nIt is covered in pockets.", "sym": "[", "color": 262144, "price": 0, "materials": [ "wool" ], "volume": 7, "weight": 850, "melee_dam": -8, "melee_cut": 0, "m_to_hit": -3, "item_flags": [ "ALLERGEN_WOOL" ], "techniques": [  ], "covers": "001100000001", "encumber": 2, "max_encumber": 1, "coverage": 90, "material_thickness": 3, "env_resist": 0, "warmth": 2, "storage": 16, "power_armor": false, "effects_worn": [ 7, 37, 34, 18 ]
+  }
 ]

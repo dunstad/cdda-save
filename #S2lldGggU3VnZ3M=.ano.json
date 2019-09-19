@@ -1,6 +1,6 @@
 {
-  "enabled": [ "mx_jabberwock", "mx_crater", "mx_minefield", "mx_point_dead_vegetation", "mx_pond", "mx_clay_deposit", "mx_roadblock", "mx_burned_ground", "mx_mayhem", "mx_anomaly", "mx_casings", "mx_dead_vegetation", "mx_bandits_block", "mx_spider", "mx_collegekids", "mx_science", "mx_helicopter", "mx_portal_in", "mx_grove", "mx_military", "mx_fumarole", "mx_roadworks", "mx_clearcut", "mx_shia", "mx_drugdeal", "mx_supplydrop", "mx_portal", "mx_point_burned_ground", "mx_house_wasp", "mx_marloss_pilgrimage", "mx_house_spider", "mx_shrubbery"
+  "enabled": [ "mx_shrubbery", "mx_house_spider", "mx_marloss_pilgrimage", "mx_house_wasp", "mx_point_burned_ground", "mx_portal", "mx_supplydrop", "mx_drugdeal", "mx_shia", "mx_clearcut", "mx_roadworks", "mx_fumarole", "mx_military", "mx_grove", "mx_portal_in", "mx_mayhem", "mx_helicopter", "mx_science", "mx_clay_deposit", "mx_point_dead_vegetation", "mx_pond", "mx_jabberwock", "mx_minefield", "mx_crater", "mx_roadblock", "mx_burned_ground", "mx_anomaly", "mx_casings", "mx_dead_vegetation", "mx_bandits_block", "mx_spider", "mx_collegekids"
   ],
-  "discovered": [ "mx_grove", "mx_casings", "mx_drugdeal", "mx_science", "mx_helicopter", "mx_clearcut", "mx_point_burned_ground", "mx_supplydrop", "mx_point_dead_vegetation", "mx_pond", "mx_clay_deposit", "mx_house_spider", "mx_shrubbery", "mx_collegekids", "mx_spider", "mx_corpses", "mx_roadworks", "mx_crater", "mx_minefield"
+  "discovered": [ "mx_minefield", "mx_crater", "mx_roadworks", "mx_clearcut", "mx_drugdeal", "mx_helicopter", "mx_science", "mx_grove", "mx_casings", "mx_point_burned_ground", "mx_supplydrop", "mx_point_dead_vegetation", "mx_pond", "mx_clay_deposit", "mx_house_spider", "mx_shrubbery", "mx_collegekids", "mx_spider", "mx_corpses"
   ]
 }
